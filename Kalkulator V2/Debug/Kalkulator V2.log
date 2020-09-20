@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Grzesiek\Desktop\Coding\C++\Działania matematyczne - Projekt na informatyke\Działania matematyczne - Projekt na informatyke\main.cpp(95,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grzesiek\Desktop\Coding\C++\Działania matematyczne - Projekt na informatyke\Działania matematyczne - Projekt na informatyke\main.cpp(313,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Działania matematyczne - Projekt na informatyke.vcxproj -> C:\Users\Grzesiek\Desktop\Coding\C++\Działania matematyczne - Projekt na informatyke\Debug\Działania matematyczne - Projekt na informatyke.exe
